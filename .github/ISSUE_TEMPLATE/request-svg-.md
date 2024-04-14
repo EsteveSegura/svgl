@@ -3,7 +3,7 @@ name: Request SVG.
 about: Request an SVG here.
 title: '🔔 [Request]:'
 labels: request
-assignees: pheralb
+assignees: EsteveSegura
 ---
 
 ## 🔎 Information:
