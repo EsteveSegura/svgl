@@ -2583,4 +2583,10 @@ export const svgs: iSVG[] = [
       dark: '/library/supabase_wordmark_dark.svg'
     }
   }
+,{
+    title: 'Wix',
+    category: 'CMS',
+    route: '/library/wix.svg',
+    url: 'https://www.wix.com/'
+  },
 ];
