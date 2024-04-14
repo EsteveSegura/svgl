@@ -2582,5 +2582,11 @@ export const svgs: iSVG[] = [
       light: '/library/supabase_wordmark_light.svg',
       dark: '/library/supabase_wordmark_dark.svg'
     }
+  },
+  {
+    title: 'NVIDIA',
+    category: 'Other',
+    route: '/library/nvidia.svg',
+    url: 'https://www.nvidia.com/'
   }
 ];
