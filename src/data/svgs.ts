@@ -2,6 +2,12 @@ import type { iSVG } from '../types/svg';
 
 export const svgs: iSVG[] = [
   {
+    'title': 'Wix',
+    'category': 'CMS',
+    'route': '/library/wix.svg',
+    'url': 'https://www.wix.com/'
+  },
+  {
     title: 'Discord',
     category: 'Software',
     route: '/library/discord.svg',
