@@ -2582,5 +2582,11 @@ export const svgs: iSVG[] = [
       light: '/library/supabase_wordmark_light.svg',
       dark: '/library/supabase_wordmark_dark.svg'
     }
-  }
+  },
+  {
+    title: 'IGM',
+    category: 'Software',
+    route: '/library/igm.svg',
+    url: 'https://imb.com'
+  },
 ];
